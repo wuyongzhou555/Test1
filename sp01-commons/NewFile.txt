@@ -1,10 +1,4 @@
 fwefd
-<<<<<<< HEAD
-<<<<<<< HEAD
 77777
 666
-=======
-<<<<<<< HEAD
 77777798796
-
->>>>>>> branch 'master' of https://github.com/wuyongzhou555/Test1.git
